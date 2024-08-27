@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    printf("Hello Rhett!\n");
+    printf("¡Ahoj Garrette!\nYour major is Non-Degree Post-Baccalaureate\n");
 
     return 0;
 }
